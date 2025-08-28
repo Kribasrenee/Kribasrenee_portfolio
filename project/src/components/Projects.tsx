@@ -37,7 +37,7 @@ const leadership = [
     color: 'from-orange-500 to-red-500'
   },
   {
-    title: 'NCC Head - Association ICT UG',
+    title: 'MOC Head - Association of CT UG',
     organization: 'Kongu Engineering College',
     description: 'Hosted various events and workshops for the student community',
     color: 'from-yellow-500 to-orange-500'
